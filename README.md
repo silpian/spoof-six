@@ -10,6 +10,7 @@ Setup:
 git clone https://github.com/silpian/spoof-six.git
 cd spoof-six/launch_on_boot
 chmod u+x ./load_daemon.sh
+./load_daemon.sh
 ```
 
 To remove the daemon:
